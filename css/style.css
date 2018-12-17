@@ -1,0 +1,19 @@
+body{
+    background: rgb(250, 149, 123);
+    text-align: center;
+    color: white;
+}
+
+#news_list{
+    list-style: none;
+    font-size: 20px;
+}
+
+a:link {
+    text-decoration: none;    
+    color: white;
+}
+
+a:visited {
+    color: rgb(245, 12, 129);
+  }
